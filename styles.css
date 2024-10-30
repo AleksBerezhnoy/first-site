@@ -1,0 +1,77 @@
+.container {
+    width: 1150px;
+    margin: 0 auto;
+}
+.interior {
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/Rectangle\ 1.png);
+    
+    margin-bottom: 150px;
+    
+}
+.interior-text {
+    font-family: "Manrope", sans-serif;
+    color: white;
+    width: 460px;
+    line-height: 27.32px;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 379px;
+    
+    
+}
+.btn {
+    display: block;
+    border: 1px solid red;
+    width: 267px;
+    height: 67px;
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    line-height: 67px;
+    
+    
+}
+
+.btn:hover {
+    color: white;
+    background-color: red;
+}
+.text-1 {
+    font-family: "Manrope", sans-serif;
+    font-size: 60px;
+    line-height: 60px;
+    width: 1150px;
+    height: 120px;
+    
+    margin-bottom: 30px;
+    letter-spacing: -3em;
+    
+    
+}
+.text-11 {
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    line-height: 24.59px;
+    width: 51px;
+    height: 25px;
+    padding-bottom: 30px;
+    
+}
+.text-12 {
+    font-family: "Manrope", sans-serif;
+    font-size: 45px;
+    line-height: 61.47px;
+    width: 1048px;
+    height: 366px;
+    padding-bottom: 97px;
+    
+    
+    
+}
+
+.text-services {
+    width: 1150px;
+    
+}
